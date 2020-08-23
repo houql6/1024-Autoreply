@@ -273,3 +273,4 @@ if __name__ == "__main__":
     auto.debug('开始时发表帖子:'+m)
     auto.debug('结束时发表帖子:'+n)
     auto.debug('回复'+str(int(n)-int(m))+'次')
+ 
