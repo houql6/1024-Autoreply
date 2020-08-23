@@ -17,9 +17,9 @@
 
         PASSWORD         密码
 
-        SECRET           谷歌身份验证器密钥
+        秘密谷歌身份验证器密钥6
 
-(可选1)([申请地址](https://market.aliyun.com/products/57124001/cmapi027426.html))
+（任选1）（[申请地址] （https://market.aliyun.com/products/57124001/cmapi027426.html））
 
         TOKER            阿里验证码识别接口AppCode
 
